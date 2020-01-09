@@ -1,0 +1,40 @@
+.blog-name{
+    position:relative;
+    display:block;
+    z-index:10;
+    margin:0;
+    padding:0;
+    font-family:'Fira Sans', sans-serif;
+    font-weight:700;
+    font-size:2em;
+    line-height:1em;
+    text-decoration:none
+}
+.blog-description {
+    position: relative;
+    display: block;
+    z-index: 10;
+    margin: 0.25em 0;
+    padding: 0;
+    font-size: 1em;
+    line-height: 1.5em;
+    font-size: 1.5em;
+}
+.home-template .blog-description{
+    font-size:1.5em
+}
+
+#blog-header {
+    text-align: center;
+    position: relative;
+    padding: 6em 0;
+    text-align: center;
+    width: 100%;
+}
+
+.blog-name a {
+    text-decoration: none;
+    font-weight: inherit;
+    color: inherit;
+  font-size: 3em;
+}
